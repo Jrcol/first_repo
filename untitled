@@ -1,2 +1,17 @@
 <!doctype html> 
 <html>
+<head> 
+<title> The importance of code </title>
+	<body> 
+	<header>
+		<h1> My blog </h1>
+		<section> 
+		<header> Title </header>
+		<h2> I built a web page </h2>
+		<h3> July 21, 2015 </h3>
+		<h4> Jerico </h4>
+		</section>
+		<aside> </aside>
+	</body>
+</head>
+</html>
